@@ -17,8 +17,8 @@ CustomGPTの作成方法は、[noteの解説記事](https://note.com/luma_voice/
 
 以下のリンクから、それぞれのバージョン全文をご覧いただけます：
 
-- [ver2.5.md](./ver.2.5.md)
-- [ver2.6.md](./ver.2.6.md)（構想中）
+- [ver.2.5.md](./ver.2.5.md)
+- [ver.2.6.md](./ver.2.6.md)（構想中）
 
 ## ⚖️ ライセンスと著作権
 
